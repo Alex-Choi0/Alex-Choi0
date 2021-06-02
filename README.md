@@ -49,7 +49,12 @@
   </a>
   
 ## Operating System
-
+* <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1504546221/2870/windows.png?1504546221" width="4%" alt="Windows" />
+  </a>
+  <a href = "https://ubuntu.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1473870830/1159/ubuntu.png?1473870830" width="4%" alt="Ubuntu" />
+  </a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
