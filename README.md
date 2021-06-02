@@ -34,7 +34,7 @@
 * <a href = "https://www.mysql.com/">
   <img src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="4%" alt="mysql" />
   </a>
-* <a href = "https://redux.js.org/">
+* <a href = "https://jwt.io/">
   <img src="https://emojis.slackmojis.com/emojis/images/1506281744/2943/jwt.png?1506281744" width="4%" alt="JWT" />
   </a>
 * <a href = "https://developer.mozilla.org/en-US/docs/Web/HTTP/Session">
