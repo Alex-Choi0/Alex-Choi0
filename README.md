@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## Language
-* :kr: :us:
+* <img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253497-flag-south-korea-icon_106789.png" width="4%" alt="Korean" /> 
+* <img src="https://icon-library.net/images/icon-english/icon-english-7.jpg" width="4%" alt="English" />
 
 ## Programming Language
 
