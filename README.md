@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+## Language
+* kr 
+
 ## Skilles
-* :bug:
+* 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
