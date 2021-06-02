@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Skilles
+* :bug:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alex-Choi0/Alex-Choi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
