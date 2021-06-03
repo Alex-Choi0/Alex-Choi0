@@ -85,6 +85,8 @@
   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Choi0&show_icons=true&theme=radical)
+
 <!--
 **Alex-Choi0/Alex-Choi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
