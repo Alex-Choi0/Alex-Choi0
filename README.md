@@ -13,10 +13,10 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="4%" alt="React" title="React"/>
   </a> 
   <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://emojis.slackmojis.com/emojis/images/1616183787/22335/html.png?1616183787" width="4%" alt="HTML" title="HTML"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1616183787/22335/html.png?1616183787" width="4%" alt="HTML" title="HyperText Markup Language"/>
   </a> 
   <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="4%" alt="CSS" title="CSS"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="4%" alt="CSS" title="Cascading Style Sheets"/> 
   </a>
   <a href = "https://redux.js.org/">
   <img src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" width="4%" alt="Redux" title="Redux"/>
