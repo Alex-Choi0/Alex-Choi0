@@ -48,6 +48,32 @@
   <a href = "https://expressjs.com/">
   <img src="https://emojis.slackmojis.com/emojis/images/1483053688/1539/express.png?1483053688" width="4%" alt="Express" />
   </a>
+
+## Deployment
+* <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="4%" alt="AWS" />
+  </a><br></br>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1467057057/599/aws.png?1467057057" width="4%" alt="EC2" />
+  </a>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1489527696/1872/s3.png?1489527696" width="4%" alt="S3" />
+  </a>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1536457915/4609/aws_rds.png?1536457915" width="4%" alt="RDS" />
+  </a>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://emojis.slackmojis.com/emojis/images/1586879438/8604/aws_r53.png?1586879438" width="4%" alt="Route 53" />
+  </a>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_CloudFront-512.png" width="4%" alt="CloudFront" />
+  </a>
+  <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
+  <img src="https://i2.wp.com/www.awsomeblog.com/wp-content/uploads/2016/05/aws-codepipeline.png?w=653&ssl=1" width="4%" alt="Certificate Manager" />
+  </a>
+  
+  
+  
   
 ## Operating System
 * <a href = "https://www.microsoft.com/en-us/?ql=3&spl=2">
@@ -56,6 +82,7 @@
   <a href = "https://ubuntu.com/">
   <img src="https://emojis.slackmojis.com/emojis/images/1473870830/1159/ubuntu.png?1473870830" width="4%" alt="Ubuntu" />
   </a>
+  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
