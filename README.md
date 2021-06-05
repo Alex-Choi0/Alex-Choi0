@@ -83,6 +83,29 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1473870830/1159/ubuntu.png?1473870830" width="4%" alt="Ubuntu" title="Ubuntu"/>
   </a>
   
+## Tools
+* <a href = "https://code.visualstudio.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1516983950/3446/vscode.png?1516983950" width="4%" alt="Visual Studio Code" title="Visual Studio Code"/>
+  </a> 
+  <a href = "https://slack.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1547717240/5206/slack.png?1547717240" width="4%" alt="Slack" title="Slack"/>
+  </a>
+  <a href = "https://eslint.org/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1572919677/7046/eslint.png?1572919677" width="4%" alt="eslint" title="eslint"/>
+  </a>
+  <a href = "https://www.postman.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1537443399/4705/postman.png?1537443399" width="4%" alt="POSTMAN" title="POSTMAN"/>
+  </a>
+  <a href = "https://git-scm.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" width="4%" alt="git" title="git"/>
+  </a>
+  <a href = "https://github.com/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" width="4%" alt="gitHub" title="gitHub"/>
+  </a>
+  <a href = "https://www.ni.com/en-us/shop/labview.html">
+  <img src="https://cdn.icon-icons.com/icons2/74/PNG/256/labview_14599.png" width="4%" alt="LabVIEW" title="LabVIEW"/>
+  </a>
+  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Choi0&show_icons=true&theme=radical)
