@@ -8,20 +8,6 @@
 
 * <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="4%" alt="JavaScript" title="JavaScript"/></a> <a href = "https://www.typescriptlang.org/"><img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="4%" alt="TypeScript" title="TypeScript" /> </a>
 
-## Front-Ended Skilles
-* <a href = "https://reactjs.org/">
-  <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="4%" alt="React" title="React"/>
-  </a> 
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://emojis.slackmojis.com/emojis/images/1616183787/22335/html.png?1616183787" width="4%" alt="HTML" title="HyperText Markup Language"/>
-  </a> 
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="4%" alt="CSS" title="Cascading Style Sheets"/> 
-  </a>
-  <a href = "https://redux.js.org/">
-  <img src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" width="4%" alt="Redux" title="Redux"/>
-  </a>
-
 
 ## Back-Ended Skilles
 * <a href = "https://nestjs.com/">
@@ -72,7 +58,19 @@
   <img src="https://i2.wp.com/www.awsomeblog.com/wp-content/uploads/2016/05/aws-codepipeline.png?w=653&ssl=1" width="4%" alt="Certificate Manager" title="Certificate Manager"/>
   </a>
   
-  
+## Front-Ended Skilles
+* <a href = "https://reactjs.org/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="4%" alt="React" title="React"/>
+  </a> 
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://emojis.slackmojis.com/emojis/images/1616183787/22335/html.png?1616183787" width="4%" alt="HTML" title="HyperText Markup Language"/>
+  </a> 
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="4%" alt="CSS" title="Cascading Style Sheets"/> 
+  </a>
+  <a href = "https://redux.js.org/">
+  <img src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" width="4%" alt="Redux" title="Redux"/>
+  </a>
   
   
 ## Operating System
