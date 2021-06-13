@@ -107,7 +107,6 @@
   ## Mini Project
   <a href = "https://alex-choi0.github.io/calculater1/">
   <img src="https://emojis.slackmojis.com/emojis/images/1614648772/16127/calculator.gif?1614648772" width="4%" alt="calculator" title="Simple Calculater"/>
-  <p>Simple Calculator</p>
   </a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Choi0)](https://github.com/anuraghazra/github-readme-stats)
