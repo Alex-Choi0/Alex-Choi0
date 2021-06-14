@@ -104,7 +104,7 @@
   <img src="https://cdn.icon-icons.com/icons2/74/PNG/256/labview_14599.png" width="4%" alt="LabVIEW" title="LabVIEW"/>
   </a>
   
-  ## Mini Project
+## Mini Project
   <a href = "https://alex-choi0.github.io/calculater1/">
   <img src="https://emojis.slackmojis.com/emojis/images/1614648772/16127/calculator.gif?1614648772" width="4%" alt="calculator" title="Simple Calculater"/>
   </a>
