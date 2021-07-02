@@ -2,7 +2,7 @@
 
 ## Language
 * <img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253497-flag-south-korea-icon_106789.png" width="4%" alt="Korean" title="Korean" />
-* <img src="https://emojis.slackmojis.com/emojis/images/1618737729/31202/english_flag.gif?1618737729" width="4%" alt="English" title="English"/> 
+* <img src="https://i1.wp.com/ritajms.com/wp-content/uploads/2019/11/52351011-english-british-england-language-education-concept.jpg?resize=768%2C567&ssl=1" width="4%" alt="English" title="English"/> 
 
 ## Programming Language
 
